@@ -1,3 +1,9 @@
+## 0.0.27.a
+- Added support for specifying a TIME format (Issue 101)
+- Fixed an issue with hanging threads
+- Modified build to work with gradle 5
+- Updated .gitignore to work with Intellij idea
+
 ## 0.0.27
 - Added support for specifying a TTL (Issue 67)
 
