@@ -6,3 +6,7 @@ cassandra-loader
 *.BADINSERT
 *.BADPARSE
 *.LOG
+
+.idea/
+*.iml
+*.csv
